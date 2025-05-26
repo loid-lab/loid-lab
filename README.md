@@ -1,0 +1,6 @@
+	-	👋 Hi, I’m @loid-lab or you can call me loid
+	-	👀 I’m into web development — especially building UIs with React + TypeScript and writing backend logic with Go
+	-	🌱 Currently learning how to connect frontend & backend cleanly, working on small projects to sharpen my skills
+	-	💞️ Open to collaborating on beginner-friendly or experimental projects — always happy to learn from others
+	-	📫 Reach me here on GitHub or drop me a message via loid4939 on Discord
+	-	😄 Pronouns: he/him
