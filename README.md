@@ -1,6 +1,18 @@
-	-	👋 Hi, I’m @loid-lab or you can call me loid
-	-	👀 I’m into web development — especially building UIs with React + TypeScript and writing backend logic with Go
-	-	🌱 Currently learning how to connect frontend & backend cleanly, working on small projects to sharpen my skills
-	-	💞️ Open to collaborating on beginner-friendly or experimental projects — always happy to learn from others
-	-	📫 Reach me here on GitHub or drop me a message via loid4939 on Discord
-	-	😄 Pronouns: he/him
+### Hey, I’m [Loid] 👋
+
+Code, coffee, and the occasional crash.  
+I like building things that work (and fixing them when they don't).
+
+- 🛠 Currently playing with: `Go`, `TypeScript`, `Next`
+- 🧠 Learning more about: backend systems and web development
+- 🌱 Always pushing small projects and big mistakes
+
+![loid-lab's GitHub stats](https://github-readme-stats.vercel.app/api?username=loid-lab&show_icons=true&hide_title=true&hide=stars&theme=graywhite)
+
+
+> “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
+
+<!-- Optional: social links -->
+<!--
+[Website](https://your.site) • [LinkedIn](https://linkedin.com/in/you) • [Twitter](https://x.com/you)
+-->
