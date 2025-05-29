@@ -1,4 +1,4 @@
-### Hey, I’m [Loid] 👋
+### Hey, I’m Loid 👋
 
 Code, coffee, and the occasional crash.  
 I like building things that work (and fixing them when they don't).
