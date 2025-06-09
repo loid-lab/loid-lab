@@ -12,4 +12,4 @@ I like building things that work (and fixing them when they don't).
 
 > “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
 
-[Website](https://loid-lab.github.io) • [Discord:](@loid4939)
+[Website](https://loid-lab-dev-github-io.vercel.app) • [Discord:](@loid4939)
